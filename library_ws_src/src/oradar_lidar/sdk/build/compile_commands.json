@@ -1,0 +1,72 @@
+[
+{
+  "directory": "/userdata/software/oradar_ws/src/oradar_lidar/sdk/build",
+  "command": "/usr/bin/c++   -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/. -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/core -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/src -I/userdata/software/oradar_ws/src/oradar_lidar/sdk -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/build   -std=c++11   -fPIC -o CMakeFiles/oradar_sdk.dir/core/base/timer.cpp.o -c /userdata/software/oradar_ws/src/oradar_lidar/sdk/core/base/timer.cpp",
+  "file": "/userdata/software/oradar_ws/src/oradar_lidar/sdk/core/base/timer.cpp"
+},
+{
+  "directory": "/userdata/software/oradar_ws/src/oradar_lidar/sdk/build",
+  "command": "/usr/bin/c++   -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/. -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/core -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/src -I/userdata/software/oradar_ws/src/oradar_lidar/sdk -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/build   -std=c++11   -fPIC -o CMakeFiles/oradar_sdk.dir/core/network/ActiveSocket.cpp.o -c /userdata/software/oradar_ws/src/oradar_lidar/sdk/core/network/ActiveSocket.cpp",
+  "file": "/userdata/software/oradar_ws/src/oradar_lidar/sdk/core/network/ActiveSocket.cpp"
+},
+{
+  "directory": "/userdata/software/oradar_ws/src/oradar_lidar/sdk/build",
+  "command": "/usr/bin/c++   -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/. -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/core -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/src -I/userdata/software/oradar_ws/src/oradar_lidar/sdk -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/build   -std=c++11   -fPIC -o CMakeFiles/oradar_sdk.dir/core/network/PassiveSocket.cpp.o -c /userdata/software/oradar_ws/src/oradar_lidar/sdk/core/network/PassiveSocket.cpp",
+  "file": "/userdata/software/oradar_ws/src/oradar_lidar/sdk/core/network/PassiveSocket.cpp"
+},
+{
+  "directory": "/userdata/software/oradar_ws/src/oradar_lidar/sdk/build",
+  "command": "/usr/bin/c++   -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/. -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/core -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/src -I/userdata/software/oradar_ws/src/oradar_lidar/sdk -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/build   -std=c++11   -fPIC -o CMakeFiles/oradar_sdk.dir/core/network/SimpleSocket.cpp.o -c /userdata/software/oradar_ws/src/oradar_lidar/sdk/core/network/SimpleSocket.cpp",
+  "file": "/userdata/software/oradar_ws/src/oradar_lidar/sdk/core/network/SimpleSocket.cpp"
+},
+{
+  "directory": "/userdata/software/oradar_ws/src/oradar_lidar/sdk/build",
+  "command": "/usr/bin/c++   -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/. -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/core -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/src -I/userdata/software/oradar_ws/src/oradar_lidar/sdk -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/build   -std=c++11   -fPIC -o CMakeFiles/oradar_sdk.dir/core/serial/serial.cpp.o -c /userdata/software/oradar_ws/src/oradar_lidar/sdk/core/serial/serial.cpp",
+  "file": "/userdata/software/oradar_ws/src/oradar_lidar/sdk/core/serial/serial.cpp"
+},
+{
+  "directory": "/userdata/software/oradar_ws/src/oradar_lidar/sdk/build",
+  "command": "/usr/bin/cc  -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/. -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/core -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/src -I/userdata/software/oradar_ws/src/oradar_lidar/sdk -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/build    -fPIC -o CMakeFiles/oradar_sdk.dir/core/serial/impl/unix/lock.c.o   -c /userdata/software/oradar_ws/src/oradar_lidar/sdk/core/serial/impl/unix/lock.c",
+  "file": "/userdata/software/oradar_ws/src/oradar_lidar/sdk/core/serial/impl/unix/lock.c"
+},
+{
+  "directory": "/userdata/software/oradar_ws/src/oradar_lidar/sdk/build",
+  "command": "/usr/bin/c++   -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/. -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/core -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/src -I/userdata/software/oradar_ws/src/oradar_lidar/sdk -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/build   -std=c++11   -fPIC -o CMakeFiles/oradar_sdk.dir/core/serial/impl/unix/list_ports_linux.cpp.o -c /userdata/software/oradar_ws/src/oradar_lidar/sdk/core/serial/impl/unix/list_ports_linux.cpp",
+  "file": "/userdata/software/oradar_ws/src/oradar_lidar/sdk/core/serial/impl/unix/list_ports_linux.cpp"
+},
+{
+  "directory": "/userdata/software/oradar_ws/src/oradar_lidar/sdk/build",
+  "command": "/usr/bin/c++   -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/. -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/core -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/src -I/userdata/software/oradar_ws/src/oradar_lidar/sdk -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/build   -std=c++11   -fPIC -o CMakeFiles/oradar_sdk.dir/core/serial/impl/unix/unix_serial.cpp.o -c /userdata/software/oradar_ws/src/oradar_lidar/sdk/core/serial/impl/unix/unix_serial.cpp",
+  "file": "/userdata/software/oradar_ws/src/oradar_lidar/sdk/core/serial/impl/unix/unix_serial.cpp"
+},
+{
+  "directory": "/userdata/software/oradar_ws/src/oradar_lidar/sdk/build",
+  "command": "/usr/bin/c++   -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/. -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/core -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/src -I/userdata/software/oradar_ws/src/oradar_lidar/sdk -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/build   -std=c++11   -fPIC -o CMakeFiles/oradar_sdk.dir/src/ord_lidar_c_api_driver.cpp.o -c /userdata/software/oradar_ws/src/oradar_lidar/sdk/src/ord_lidar_c_api_driver.cpp",
+  "file": "/userdata/software/oradar_ws/src/oradar_lidar/sdk/src/ord_lidar_c_api_driver.cpp"
+},
+{
+  "directory": "/userdata/software/oradar_ws/src/oradar_lidar/sdk/build",
+  "command": "/usr/bin/c++   -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/. -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/core -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/src -I/userdata/software/oradar_ws/src/oradar_lidar/sdk -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/build   -std=c++11   -fPIC -o CMakeFiles/oradar_sdk.dir/src/ord_lidar_driver.cpp.o -c /userdata/software/oradar_ws/src/oradar_lidar/sdk/src/ord_lidar_driver.cpp",
+  "file": "/userdata/software/oradar_ws/src/oradar_lidar/sdk/src/ord_lidar_driver.cpp"
+},
+{
+  "directory": "/userdata/software/oradar_ws/src/oradar_lidar/sdk/build",
+  "command": "/usr/bin/c++   -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/. -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/core -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/src -I/userdata/software/oradar_ws/src/oradar_lidar/sdk -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/build   -std=c++11   -fPIC -o CMakeFiles/oradar_sdk.dir/src/filters/FullScanFilter.cpp.o -c /userdata/software/oradar_ws/src/oradar_lidar/sdk/src/filters/FullScanFilter.cpp",
+  "file": "/userdata/software/oradar_ws/src/oradar_lidar/sdk/src/filters/FullScanFilter.cpp"
+},
+{
+  "directory": "/userdata/software/oradar_ws/src/oradar_lidar/sdk/build/samples",
+  "command": "/usr/bin/cc  -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/. -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/core -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/src -I/userdata/software/oradar_ws/src/oradar_lidar/sdk -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/.. -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/build/samples    -fPIC -o CMakeFiles/blocking_c_api_test.dir/blocking_c_api_test.c.o   -c /userdata/software/oradar_ws/src/oradar_lidar/sdk/samples/blocking_c_api_test.c",
+  "file": "/userdata/software/oradar_ws/src/oradar_lidar/sdk/samples/blocking_c_api_test.c"
+},
+{
+  "directory": "/userdata/software/oradar_ws/src/oradar_lidar/sdk/build/samples",
+  "command": "/usr/bin/c++   -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/. -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/core -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/src -I/userdata/software/oradar_ws/src/oradar_lidar/sdk -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/.. -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/build/samples   -std=c++11 -std=c++11   -fPIC -o CMakeFiles/non-blocking_test.dir/non-blocking_test.cpp.o -c /userdata/software/oradar_ws/src/oradar_lidar/sdk/samples/non-blocking_test.cpp",
+  "file": "/userdata/software/oradar_ws/src/oradar_lidar/sdk/samples/non-blocking_test.cpp"
+},
+{
+  "directory": "/userdata/software/oradar_ws/src/oradar_lidar/sdk/build/samples",
+  "command": "/usr/bin/c++   -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/. -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/core -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/src -I/userdata/software/oradar_ws/src/oradar_lidar/sdk -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/.. -I/userdata/software/oradar_ws/src/oradar_lidar/sdk/build/samples   -std=c++11 -std=c++11   -fPIC -o CMakeFiles/blocking_test.dir/blocking_test.cpp.o -c /userdata/software/oradar_ws/src/oradar_lidar/sdk/samples/blocking_test.cpp",
+  "file": "/userdata/software/oradar_ws/src/oradar_lidar/sdk/samples/blocking_test.cpp"
+}
+]
